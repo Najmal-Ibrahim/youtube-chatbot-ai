@@ -32,8 +32,7 @@ The project follows a standard RAG pipeline:
     *   These chunks (context) and the user's question are passed to an LLM (e.g., GPT-3.5).
     *   The LLM generates a final answer based on the provided context.
 
-![Architecture Diagram]([https://your-link-to-an-architecture-diagram.com/diagram.pn](https://excalidraw.com/#json=RE7-TG77BDTmkXlWKxghQ,rPPZHmQ0L5aHQNhM1-e9qw))
-*(Optional but very professional: Create a simple diagram in a tool like Excalidraw or draw.io)*
+![Architecture Diagram]([[https://your-link-to-an-architecture-diagram.com/diagram.pn](https://excalidraw.com/#json=RE7-TG77BDTmkXlWKxghQ,rPPZHmQ0L5aHQNhM1-e9qw)](https://excalidraw.com/#json=RE7-TG77BDTmkXlWKxghQ,rPPZHmQ0L5aHQNhM1-e9qw))
 
 ---
 
