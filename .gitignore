@@ -205,3 +205,25 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# Notebooks
+.ipynb_checkpoints
+
+# Data files
+*.mp3
+*.mp4
+*.wav
+db/
+faiss_index/
